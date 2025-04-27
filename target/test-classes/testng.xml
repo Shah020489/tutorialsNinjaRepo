@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Tutorial Ninja Test Suite">
+    <test name="Tutorial Ninja Test">
+        <classes>
+            <class name="com.tutorialNinja.qa.testcases.Login"/>
+            <class name="com.tutorialNinja.qa.testcases.Register"/>
+            <class name="com.tutorialNinja.qa.testcases.Search"/>
+            </classes>
+    </test>
+</suite>
